@@ -45,7 +45,8 @@ I'm a **cybersecurity expert** and **software developer** passionate about blend
 ---
 
 ## 🎯 Fun Fact
-🎉 **Fun-Fact**: I ❤️ Astrophysics and SpaceX🚀 and watch a lot of Sci-Fi Movies🎬
+🎉 **Fun-Fact**:I ❤️ Astrophysics and SpaceX 🚀, and I watch a lot of Sci-Fi movies 🎬. I also enjoy watching anime 🎥 and reading novels 📚.
+
 
 <div align="center">
   <img src="/anime-gif-18.gif" alt="Fun Fact Animation" width="600" />
@@ -55,16 +56,17 @@ I'm a **cybersecurity expert** and **software developer** passionate about blend
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [Kalash Kundaliya's Portfolio](https://your-portfolio-link.com)
+Check out my portfolio: [Kalash Kundaliya's Portfolio](https://kalashkundaliyacyber.github.io/Portfolio/)
 
 ---
 
 ## 📞 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/kalash-kundaliya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/kalash-kundaliya-7336791a7/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/Kalashkundaliyacyber)
-[![Instagram](https://img.shields.io/badge/Instagram-Handle-red?logo=instagram)](https://instagram.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail)](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Handle-red?logo=instagram)](https://instagram.com/kalash_kundaliya)
+[![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail)](mailto:your-Kalashkundaliya@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=pdf&logoColor=white)](/Kalash%20Kundaliya.pdf)
 
 <div align="center">
   <img src="/anime-gif-13.gif" alt="Thanks GIF" width="400" />
