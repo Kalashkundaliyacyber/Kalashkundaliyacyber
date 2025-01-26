@@ -5,6 +5,7 @@
 </div>
 
 ## 🚀 About Me
+
 I'm a **cybersecurity expert** and **software developer** passionate about blending technology with innovation. I specialize in:
 
 - 🛡️ **Cybersecurity**: Networking, Linux, shell scripting, and penetration testing.
@@ -15,10 +16,15 @@ I'm a **cybersecurity expert** and **software developer** passionate about blend
 ## 🌟 Key Highlights
 
 - **Cybersecurity Mentorship Program**: Completed training with BTech Walleh and Teachnook (June-July 2024).
-- **Projects**: 
-  - [Network Analysis Tool](https://github.com/Kalashkundaliyacyber/Network_Analysis_Tool.git): Real-time traffic analysis with GUI and CLI outputs.
+- **Cybersecurity Internship**: Currently interning at Codec Network.
+- **Projects**:
+  - Network Analysis Tool: Real-time traffic analysis with GUI and CLI outputs.
   - Visual Cryptography implementation with RGB shares.
-- **Professional Skills**: ATS-optimized cybersecurity skills, and more.
+  - **Keylogger**: Developed a tool for monitoring and logging keystrokes for cybersecurity research purposes.
+  - **Pastejacking**: Explored methods to detect and mitigate clipboard hijacking attacks.
+  - **API-Testing-Documentary**: Created a comprehensive guide to testing APIs for functionality, security, and performance.
+  - **Capture the Flag**: Participated in various CTF challenges to sharpen problem-solving and penetration testing skills.
+  - **Professional Skills**: ATS-optimized cybersecurity skills,Web Testing and more.
 
 ---
 
@@ -45,8 +51,8 @@ I'm a **cybersecurity expert** and **software developer** passionate about blend
 ---
 
 ## 🎯 Fun Fact
-🎉 **Fun-Fact**:I ❤️ Astrophysics and SpaceX 🚀, and I watch a lot of Sci-Fi movies 🎬. I also enjoy watching anime 🎥 and reading novels 📚.
 
+🎉 **Fun-Fact**:I ❤️ Astrophysics and SpaceX 🚀, and I watch a lot of Sci-Fi movies 🎬. I also enjoy watching anime 🎥 and reading novels 📚.
 
 <div align="center">
   <img src="/anime-gif-18.gif" alt="Fun Fact Animation" width="600" />
