@@ -18,8 +18,7 @@ I'm a **cybersecurity expert** and **software developer** passionate about blend
 - **Cybersecurity Mentorship Program**: Completed training with BTech Walleh and Teachnook (June-July 2024).
 - **Cybersecurity Internship**: Currently interning at Codec Network.
 - **Projects**:
-  - Network Analysis Tool: Real-time traffic analysis with GUI and CLI outputs.
-  - Visual Cryptography implementation with RGB shares.
+  - **Network Analysis Tool**: Real-time traffic analysis with GUI and CLI outputs.
   - **Keylogger**: Developed a tool for monitoring and logging keystrokes for cybersecurity research purposes.
   - **Pastejacking**: Explored methods to detect and mitigate clipboard hijacking attacks.
   - **API-Testing-Documentary**: Created a comprehensive guide to testing APIs for functionality, security, and performance.
