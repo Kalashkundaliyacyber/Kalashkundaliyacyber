@@ -71,7 +71,7 @@ Check out my portfolio: [Kalash Kundaliya's Portfolio](https://kalashkundaliyacy
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/Kalashkundaliyacyber)
 [![Instagram](https://img.shields.io/badge/Instagram-Handle-red?logo=instagram)](https://instagram.com/kalash_kundaliya)
 [![Email](https://img.shields.io/badge/Email-Contact-green?logo=gmail)](mailto:your-Kalashkundaliya@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=pdf&logoColor=white)](Kalash%20Kundaliya.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=pdf&logoColor=white)](Kalash-Kundaliya.pdf)
 
 <div align="center">
   <img src="/anime-gif-13.gif" alt="Thanks GIF" width="400" />
