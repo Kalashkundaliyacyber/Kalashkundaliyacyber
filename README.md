@@ -76,3 +76,9 @@ Check out my portfolio: [Kalash Kundaliya's Portfolio](https://kalashkundaliyacy
 <div align="center">
   <img src="/anime-gif-13.gif" alt="Thanks GIF" width="400" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalashkundaliyacyber/Kalashkundaliyacyber/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalashkundaliyacyber/Kalashkundaliyacyber/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kalashkundaliyacyber/Kalashkundaliyacyber/output/github-snake.svg" />
+</picture>
