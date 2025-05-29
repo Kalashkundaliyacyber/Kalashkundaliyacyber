@@ -91,6 +91,8 @@ jobs:
           publish_dir: ./dist
 
           publish_branch: output
+          force_orphan: true
+          commit_message: "Update snake animation [skip ci]"
 
           # Optionally, you can set a custom commit message
 
